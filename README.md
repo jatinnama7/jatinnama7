@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width:1000px; height:400px;" src="https://cutewallpaper.org/27/best-wallpaper-gif-program/7-best-animated-presentation-software-you-should-know-about.gif" alt="MasterHead">
+    <img style="width:1000px; height:400px;" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Jatin Nama</h1>
 <h3 align="center">A passionate coder and tech enthusiast from Jaipur, India.</h3>
