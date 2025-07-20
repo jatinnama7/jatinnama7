@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width:1000px; height:400px;" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="MasterHead">
+    <img style="width:1000px; height:400px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFxaTJtczNuc216cmt2a3RmbHduMjB0ajkxOHh5cWtqZ29ycHpmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Jatin Nama</h1>
 <h3 align="center">A passionate coder and tech enthusiast from Jaipur, India.</h3>
@@ -9,15 +9,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinnama7" alt="jatinnama7" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Student Management System**
+- 🔭 I’m currently working on **Comparitor**
 
-- 🌱 I’m currently learning **Python, My SQL**
+- 🌱 I’m currently learning **RHEL 9 and DevOps**
 
-- 🤝 I’m looking for help with **devashishsoni98**
+- 🤝 I’m looking for help with **NotHarshhaa**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, AI and DevOps**
 
-- ⚡ Fun fact **I am still learning ;)**
+- ⚡ Fun fact **The first computer bug was an actual moth stuck in a relay of the Harvard Mark II computer in 1947**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
