@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
-          github_user_login: jatinnama7
+          github_user_login: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
